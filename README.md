@@ -1,5 +1,5 @@
 # Unity Slot Machine
-<p>Primitive implementation of a slot machine in Unity, mainly for async/await work demonstration./p>
+<p>Primitive implementation of a slot machine in Unity, mainly for async/await work demonstration.</p>
   
 ## Overview
 <p>Can be run in 2 modes, single or multiple-line. In Single-line mode win occurs if all elements of the middle line are the same;</p>
